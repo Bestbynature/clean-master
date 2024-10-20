@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  title: MyString
+  description: MyText
+  job_address: MyString
+  user_client_id: MyString
+  user_client_name: MyString
+  user_assignee_id: MyString
+  user_assignee_name: MyString
+  created_on: 2024-10-20 23:22:17
+  job_status: 1
+
+two:
+  location: MyString
+  title: MyString
+  description: MyText
+  job_address: MyString
+  user_client_id: MyString
+  user_client_name: MyString
+  user_assignee_id: MyString
+  user_assignee_name: MyString
+  created_on: 2024-10-20 23:22:17
+  job_status: 1

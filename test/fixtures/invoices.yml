@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  invoice_number: MyString
+  status: 1
+  due_date: 2024-10-20
+  created_date: 2024-10-20 23:26:02
+  user_id: MyString
+  client_name: MyString
+  client_address: MyString
+  total: 9.99
+
+two:
+  invoice_number: MyString
+  status: 1
+  due_date: 2024-10-20
+  created_date: 2024-10-20 23:26:02
+  user_id: MyString
+  client_name: MyString
+  client_address: MyString
+  total: 9.99
