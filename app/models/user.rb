@@ -10,5 +10,5 @@ class User < ApplicationRecord
 
   # Validations
   validates :email, presence: true, uniqueness: true
-  validates :user_type, presence: true # 'client' or 'vendor'
+  validates :role, presence: true # 'client' or 'vendor'
 end
